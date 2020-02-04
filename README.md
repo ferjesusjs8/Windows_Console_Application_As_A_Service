@@ -12,7 +12,7 @@
 ##### d. And then you can check your service running by pressing ```Windows Key + R```, and then using the following command line:
 ```services.msc```
 
-##### e.ress Enter and then check your service name in the list.
+##### e. Press Enter and then check your service name in the list.
 
 #### 2. How to Uninstall:
 
