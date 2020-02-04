@@ -2,7 +2,7 @@
 
 #### 1. How to install:
 
-##### a. First Navigate to the solution bin and select from debug or release solution builded project, then copy and paste somewhere else you want to store the project main files.
+##### a. First Navigate to the solution project's ```bin``` and select from ```debug``` or ```release``` solution built project, then copy and paste somewhere else you want to store the project main files.
 
 ##### b. Now you have to prompt command as admin user and navigate to the folder where you stored your project files.
 
